@@ -16,5 +16,8 @@
 ## Current Focus
 Learning quantitative finance fundamentals and applying ML expertise to financial markets.
 
+## 📚 Learning Resources
+- **[Trading Metrics Explained](docs/metrics_glossary.md)** - Complete guide to quantitative finance metrics
+
 ---
 *"Applying the same curiosity and discipline that took me from 38' to 33' in 10K running"*
