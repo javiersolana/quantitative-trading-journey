@@ -3,10 +3,10 @@
 **Goal:** Transform from ML Engineer to Quantitative Analyst in 28 days
 
 ## Background
-- 22 years old, Spain (Castro-Urdiales → Bilbao)
+- 22 years old, Spain (Bilbao)
 - Engineering degree in Telecommunications Technology (UPV)
-- TFG 9.3: ML models for cardiac arrest prediction (CNN, RF, SVM, RNN)
-- Next: AI Applied Master's (dual program)
+- TFG (grade of 9.3): ML models for cardiac arrest prediction (CNN, RF, SVM, RNN)
+- Now: Coursing AI Applied Master's (dual program)
 
 ## Journey Metrics
 | Day | Strategy | Annual Return | Sharpe | Max DD | Status |
